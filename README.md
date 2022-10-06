@@ -1,0 +1,2 @@
+# Bed
+PicGo图床
